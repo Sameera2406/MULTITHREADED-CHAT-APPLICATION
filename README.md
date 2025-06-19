@@ -112,7 +112,7 @@ java ChatClient
 
 Each client can now send messages to the server, which are broadcasted to all other connected clients.
 
-## Use Cases
+##Use Cases
 1.Learning and teaching basic networking
 
 2.Building the base for a more advanced chat system

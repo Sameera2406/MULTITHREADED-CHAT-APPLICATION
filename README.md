@@ -123,4 +123,12 @@ Each client can now send messages to the server, which are broadcasted to all ot
 
 ##OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/1eaf2197-fea3-466d-b11c-38841d9343c2)
+
+![Image](https://github.com/user-attachments/assets/daa14a76-2320-43e8-b55e-ab8de88d27ee)
+
+![Image](https://github.com/user-attachments/assets/5eb8a165-7985-4686-b0c8-baf18b7ab8e5)
+
+![Image](https://github.com/user-attachments/assets/743dd20b-f10b-4f5c-ad9d-6913d916733f)
+
 
